@@ -90,7 +90,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <Optimization>MaxSpeed</Optimization>
+      <Optimization>Disabled</Optimization>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -126,13 +126,8 @@
   <ItemGroup>
     <ClCompile Include="class.cpp" />
     <ClCompile Include="class2.cpp" />
-    <ClCompile Include="class3.cpp" />
-    <ClCompile Include="FileName.cpp" />
-    <ClCompile Include="test.cpp" />
-    <ClCompile Include="ct.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="a.h" />
+    <ClCompile Include="hw1.cpp" />
+    <ClCompile Include="hw2.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

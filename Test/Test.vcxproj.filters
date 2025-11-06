@@ -15,13 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="FileName.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="test.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="ct.cpp">
+    <ClCompile Include="hw1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="class.cpp">
@@ -30,13 +24,8 @@
     <ClCompile Include="class2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="class3.cpp">
+    <ClCompile Include="hw2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="a.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
   </ItemGroup>
 </Project>
